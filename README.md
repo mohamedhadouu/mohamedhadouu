@@ -50,7 +50,7 @@ I build practical AI systems: deep learning models for vision and NLP, RAG chatb
 
 ### 📫 Get in touch
 
-📧 hadoumohamed@outlook.com · 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-hadou/) · 🌐 [eathealthyfast.com](https://eathealthyfast.com)  
+📧 hadoumohamed@outlook.com · 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-hadou/) · 🆔 [ORCID](https://orcid.org/0009-0002-2913-0442) · 🌐 [eathealthyfast.com](https://eathealthyfast.com)  
 🗣️ Arabic · French · English
 
 💼 Open to AI / ML / Data Science roles, in Morocco or remote.
