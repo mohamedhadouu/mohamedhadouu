@@ -23,9 +23,9 @@ I build practical AI systems: deep learning models for vision and NLP, RAG chatb
 |---|---|---|---|
 | [LLM-Generated Text Detection](https://github.com/mohamedhadouu/llm-generated-text-detection) | Classifies essays as student-written or LLM-generated | **98.96% accuracy · AUC 0.999** | TensorFlow, Keras NLP |
 | [Renewable Energy Prediction](https://github.com/mohamedhadouu/renewable-energy-prediction-elm-mlp) | Predicts solar (PV) and wind power output with ELM and backpropagation networks | **R² up to 0.99** | NumPy, scikit-learn |
-| [ResNet18 Crack Detection](https://github.com/mohamedhadouu/resnet18-crack-detection-pytorch) | Transfer learning with a pre-trained ResNet18 for image classification | | PyTorch, torchvision |
-| [Graph Attention Network](https://github.com/mohamedhadouu/graph-attention-network-proteins) | Graph classification on the PROTEINS dataset with attention | | PyTorch |
-| [Image Processing GUI](https://github.com/mohamedhadouu/image-processing-gui-opencv) | Desktop app for filters, histograms and image transforms | | OpenCV, Tkinter, SciPy |
+| [ResNet18 Crack Detection](https://github.com/mohamedhadouu/resnet18-crack-detection-pytorch) | Concrete crack detection with a pre-trained ResNet18 (transfer learning) | **99.43% accuracy** | PyTorch, torchvision |
+| [Graph Attention Network](https://github.com/mohamedhadouu/graph-attention-network-proteins) | Protein graph classification with a GAT built from scratch | 74% test accuracy (prototype) | PyTorch |
+| [Image Processing GUI](https://github.com/mohamedhadouu/image-processing-gui-opencv) | Desktop app with 30+ filters, morphology and feature detection operations | | OpenCV, Tkinter, SciPy |
 | [Editorial Manager](https://github.com/mohamedhadouu/editorial-manager-laravel) | Submission and review platform for a scientific journal | | Laravel, Tailwind |
 
 ---
@@ -50,7 +50,7 @@ I build practical AI systems: deep learning models for vision and NLP, RAG chatb
 
 ### 📫 Get in touch
 
-📧 hadoumohamed@outlook.com · 🌐 [eathealthyfast.com](https://eathealthyfast.com)  
+📧 hadoumohamed@outlook.com · 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-hadou/) · 🌐 [eathealthyfast.com](https://eathealthyfast.com)  
 🗣️ Arabic · French · English
 
 💼 Open to AI / ML / Data Science roles, in Morocco or remote.
