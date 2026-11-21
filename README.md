@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Mohamed Hadou 👋
 
-<!--
-**mohamedhadouu/mohamedhadouu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI / Machine Learning Engineer** · Agadir, Morocco 🇲🇦
 
-Here are some ideas to get you started:
+🎓 Master's in Advanced Machine Learning & Multimedia Intelligence (FS Dhar El Mehraz, Fès)
+🔬 PhD candidate at FS Agadir, Université Ibn Zohr: AI for detecting heat and water stress in plants 🌱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build practical AI systems: deep learning models for vision and NLP, RAG chatbots, and automated data pipelines.
+
+---
+
+### 🔭 What I'm working on
+
+- **PhD research:** using machine learning to detect water and heat stress in crops
+- **RAG & LLMs:** a voice chatbot in Moroccan Darija and French (internship at Pôle Digital de l'Agriculture)
+- **Automation:** [EatHealthyFast](https://eathealthyfast.com), a recipe blog run by an automated content pipeline
+
+---
+
+### 🚀 Featured projects
+
+| Project | What it does | Key result | Stack |
+|---|---|---|---|
+| [LLM-Generated Text Detection](https://github.com/mohamedhadouu/llm-generated-text-detection) | Classifies essays as student-written or LLM-generated | **98.96% accuracy · AUC 0.999** | TensorFlow, Keras NLP |
+| [Renewable Energy Prediction](https://github.com/mohamedhadouu/renewable-energy-prediction-elm-mlp) | Predicts solar (PV) and wind power output with ELM and backpropagation networks | **R² up to 0.99** | NumPy, scikit-learn |
+| [ResNet18 Crack Detection](https://github.com/mohamedhadouu/resnet18-crack-detection-pytorch) | Transfer learning with a pre-trained ResNet18 for image classification | | PyTorch, torchvision |
+| [Graph Attention Network](https://github.com/mohamedhadouu/graph-attention-network-proteins) | Graph classification on the PROTEINS dataset with attention | | PyTorch |
+| [Image Processing GUI](https://github.com/mohamedhadouu/image-processing-gui-opencv) | Desktop app for filters, histograms and image transforms | | OpenCV, Tkinter, SciPy |
+| [Editorial Manager](https://github.com/mohamedhadouu/editorial-manager-laravel) | Submission and review platform for a scientific journal | | Laravel, Tailwind |
+
+---
+
+### 🛠️ Tech stack
+
+**Machine Learning / Deep Learning:** PyTorch · TensorFlow · Keras · scikit-learn · Hugging Face Datasets  
+**NLP & LLMs:** Keras NLP · RAG · embeddings  
+**Data:** Python · pandas · NumPy · Matplotlib · Seaborn  
+**Computer Vision:** OpenCV · torchvision  
+**Web & Tools:** Git · Jupyter · Laravel · Google Apps Script · BeautifulSoup · Scrapy
+
+---
+
+### 📜 Certifications
+
+- Deep Learning Specialization, DeepLearning.AI
+- Deep Learning with PyTorch, Keras and TensorFlow, IBM
+- Google Data Analytics, Google
+
+---
+
+### 📫 Get in touch
+
+📧 hadoumohamed@outlook.com · 🌐 [eathealthyfast.com](https://eathealthyfast.com)  
+🗣️ Arabic · French · English
+
+💼 Open to AI / ML / Data Science roles, in Morocco or remote.
