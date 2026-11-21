@@ -1,8 +1,8 @@
 # Hi, I'm Mohamed Hadou 👋
 
-**AI / Machine Learning Engineer** · Agadir, Morocco 🇲🇦
+**AI / Machine Learning Engineer** · Agadir, Morocco
 
-🎓 Master's in Advanced Machine Learning & Multimedia Intelligence (FS Dhar El Mehraz, Fès)
+🎓 Master's in Advanced Machine Learning & Multimedia Intelligence (FS Dhar El Mehraz, Fès)  
 🔬 PhD candidate at FS Agadir, Université Ibn Zohr: AI for detecting heat and water stress in plants 🌱
 
 I build practical AI systems: deep learning models for vision and NLP, RAG chatbots, and automated data pipelines.
